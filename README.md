@@ -1,19 +1,19 @@
 
 
 ##
-myz ödev 2
+myz odev 2
 ##
-word dosyasında parametreler hakkında detayli bilgi verilmiştir
+word dosyasında parametreler hakkinda detayli bilgi verilmistir
 ##
-sırası ile txt dosyasının hangi siniflandırıcıya ait olduğu aşağıda listelenmiştir.
+sirasi ile txt dosyasının hangi siniflandiriciya ait oldugu asagida listelenmistir.
 ##
 1 bayes siniflandirici
 ##
-2 k means öbekleyici
+2 k means obekleyici
 ##
-3 kNN sınıflandırıcı
+3 kNN siniflandirici
 ##
-4 adaboost sınıflandırıcı
+4 adaboost sinifflandirici
 ##
-5 randomforest sınıflandırıcı
+5 randomforest siniflandirici
 
